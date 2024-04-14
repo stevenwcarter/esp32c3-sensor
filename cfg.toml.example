@@ -1,0 +1,3 @@
+[esp32c3-sensor]
+wifi_ssid = "test"
+wifi_psk = "test"
